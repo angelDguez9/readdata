@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">readnumbers</string>
+    <string name="take_photo">Tomar foto a mi tarjeta</string>
+    <string name="enter_your_card_details">Ingrese los datos de su tarjeta</string>
+    <string name="hint">XXXX-XXXX-XXXX-XXXX</string>
+</resources>
